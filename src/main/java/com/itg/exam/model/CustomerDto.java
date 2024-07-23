@@ -1,8 +1,6 @@
 package com.itg.exam.model;
 
 import jakarta.persistence.*;
-import org.hibernate.annotations.NotFound;
-import org.hibernate.annotations.NotFoundAction;
 
 import java.util.ArrayList;
 import java.util.List;

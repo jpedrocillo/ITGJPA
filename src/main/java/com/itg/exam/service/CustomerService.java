@@ -1,6 +1,5 @@
 package com.itg.exam.service;
 
-import com.itg.exam.model.AccountDto;
 import com.itg.exam.model.CustomerDto;
 
 import java.util.Map;

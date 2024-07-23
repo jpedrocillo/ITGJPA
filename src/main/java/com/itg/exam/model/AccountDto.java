@@ -2,9 +2,6 @@ package com.itg.exam.model;
 
 import jakarta.persistence.*;
 
-import java.util.ArrayList;
-import java.util.List;
-
 @Entity
 @Table(name = "account")
 public class AccountDto {
